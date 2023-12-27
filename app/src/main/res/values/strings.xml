@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Insectepdia</string>
+    <string-array name="insects_common_txt">
+        <item>Monarch Butterfly</item>
+        <item>Mourning Cloak Butterfly</item>
+        <item>Painted Lady Butterfly</item>
+        <item>Pipevine Swallowtail</item>
+        <item>Red Admiral Butterfly</item>
+        <item>Asian Lady Beetle</item>
+        <item>Fire Ant</item>
+        <item>Honey Bee</item>
+        <item>Queen Alexandra\'s Birdwing</item>
+        <item>Brown Marmorated Stink Bug</item>
+        <item>Walking Flower Mantis</item>
+    </string-array>
+
+    <string-array name="insects_scientific_txt">
+        <item>Danaus plexippus</item>
+        <item>Nymphalis antiopa</item>
+        <item>Vanessa cardui</item>
+        <item>Battus philenor</item>
+        <item>Vanessa atalanta</item>
+        <item>Coccinella Septempunctata</item>
+        <item>Solenopsis invicta</item>
+        <item>Apis mellifera Linnaeus</item>
+        <item>Ornithoptera alexandrae</item>
+        <item>Halyomorpha halys</item>
+        <item>Hymenopus coronatus</item>
+    </string-array>
+
+    <string-array name="insects_life_span_txt">
+        <item>8</item>
+        <item>3</item>
+        <item>13</item>
+        <item>15</item>
+        <item>20</item>
+        <item>14</item>
+        <item>3</item>
+        <item>3</item>
+        <item>8</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+
+    <string-array name="insects_category_txt">
+        <item>Lepidoptera</item>
+        <item>Lepidoptera</item>
+        <item>Lepidoptera</item>
+        <item>Lepidoptera</item>
+        <item>Lepidoptera</item>
+        <item>Coleoptera</item>
+        <item>Hymenoptera</item>
+        <item>Hymenoptera</item>
+        <item>Lepidoptera</item>
+        <item>Hemiptera</item>
+        <item>Hymenoptera</item>
+    </string-array>
+
+    <string-array name="insects_description_txt">
+        <item>The Monarch Butterfly (Danaus plexippus) is a milkweed butterfly and the most familiar North American butterfly.</item>
+        <item>The Mourning Cloak Butterfly (Nymphalis antiopa) is a butterfly native to Eurasia and North America.</item>
+        <item>The Painted Lady Butterfly (Vanessa cardui) is a colorful widespread butterfly.</item>
+        <item>The Pipevine Swallowtail (Battus philenor) is a swallowtail butterfly distributed throughout the forests of North America and Central America.</item>
+        <item>The Red Admiral Butterfly (Vanessa atalanta) is a butterfly that is widely distributed across the temperate regions of North Africa.</item>
+        <item>Dome shaped (convex) on top, flat on the bottom, and rounded when viewed from above.</item>
+        <item>Red and black in coloration and, like all insects, they are protected by a hard exoskeleton and have six legs.</item>
+        <item>Usually brown with a banded dull yellow and brown abdomen.</item>
+        <item>They have 2 compound eyes, antennae, a proboscis, 6 legs, and wings covered with scales.</item>
+        <item>The adult brown marmorated stink bug is shield shaped with brown mottling.</item>
+        <item>The orchid mantis is a species of praying mantis that models itself after a flower, specifically a pink orchid.</item>
+    </string-array>
+
+    <string-array name="insects_classes_txt">
+        <item>Hemiptera</item>
+        <item>Lepidoptera</item>
+        <item>Diptera</item>
+        <item>Hymenoptera</item>
+        <item>Coleoptera</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CarBrowser" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryContainer">@color/honey_base</item>
+        <item name="colorPrimary">@color/honey_light</item>
+        <item name="colorPrimaryDark">@color/honey_crisp</item>
+    </style>
+
+    <style name="Theme.CarBrowser" parent="Base.Theme.CarBrowser">
+        <item name="android:editTextColor">@color/honey_crisp</item>
+        <item name="android:textColorHint">@color/honey_hive</item>
+    </style>
+
+</resources>

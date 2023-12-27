@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#999999</color>
+    <color name="honey_base">#f9c901</color>
+    <color name="honey_light">#f6e000</color>
+    <color name="honey_crisp">#985b10</color>
+    <color name="honey_hive">#6b4701</color>
+    <color name="honey_saturated">#ebf103</color>
+    <color name="honey_green">#c2dd0e</color>
+    <color name="honey_heavy">#ffaa05</color>
+    <color name="honey_shallow">#fff5f5</color>
+    <color name="honey_dense">#dd8805</color>
+    <color name="honey_den">#cd6815</color>
+    <color name="ColorPrimary">#008577</color>
+    <color name="ColorPrimaryDark">#00574B</color>
+    <color name="ColorAccent">#D81B60</color>
+</resources>
